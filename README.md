@@ -1,5 +1,6 @@
 #### &#x1f4c8; My GitHub Stats
 
+<!-- prettier-ignore-start -->
 <table style="border-collapse: collapse; border: none;">
   <tr style="background-color: transparent;">
     <td style="border: none; padding: 0; background-color: transparent; width: 50%;">
@@ -21,3 +22,4 @@
     </td>
   </tr>
 </table>
+<!-- prettier-ignore-end -->
