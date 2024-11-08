@@ -2,6 +2,8 @@
 
 - Developer of <a href="https://github.com/Red-Flake/red-flake-nix">Red Flake</a>
 
+<br>
+
 #### &#x1f4c8; My GitHub Stats
 
 <!-- prettier-ignore-start -->
