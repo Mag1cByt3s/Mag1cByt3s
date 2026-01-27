@@ -24,7 +24,7 @@
   <tr style="background-color: transparent;">
     <td colspan="2" align="center" style="border: none; padding: 0; background-color: transparent;">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Mag1cByt3s&theme=tokyonight" alt="GitHub Streak" style="max-width: 100%; display: block;">
+        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Mag1cByt3s&theme=tokyonight" alt="GitHub Streak" style="max-width: 100%; display: block;">
       </a>
     </td>
   </tr>
