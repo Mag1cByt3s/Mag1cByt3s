@@ -1,5 +1,7 @@
 ## About Me
 
+![nixpkgs contributor](https://img.shields.io/badge/nixpkgs-contributor-5277C3?logo=nixos&logoColor=white)
+
 - Developer of <a href="https://github.com/Red-Flake/red-flake-nix">Red Flake</a>, <a href="https://github.com/Red-Flake/BloodHound-CE-Desktop">BloodHound-CE-Desktop</a>, <a href="https://github.com/Red-Flake/pyserver">pyserver</a>, <a href="https://github.com/Mag1cByt3s/MagicLinPwn">MagicLinPwn</a>, <a href="https://github.com/Mag1cByt3s/MagicWinPwn">MagicWinPwn</a>, <a href="https://github.com/Mag1cByt3s/MagicADPwn">MagicADPwn</a>, <a href="https://github.com/Mag1cByt3s/crunchy">crunchy</a>, <a href="https://github.com/Mag1cByt3s/MagicDump">MagicDump</a>, <a href="https://github.com/Mag1cByt3s/MagicRecon">MagicRecon</a>
 
 
